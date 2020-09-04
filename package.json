@@ -22,7 +22,7 @@
     "humps": "^2.0.1",
     "idle-vue": "^2.0.5",
     "lodash": "^4.17.11",
-    "papaparse": "^5.0.0",
+    "papaparse": "^5.2.0",
     "quasar": "^1.0.0",
     "vue-apexcharts": "^1.4.0",
     "vue-dragscroll": "^1.10.0",
