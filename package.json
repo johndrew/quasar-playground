@@ -21,7 +21,7 @@
     "format-usd": "^1.0.1",
     "humps": "^2.0.1",
     "idle-vue": "^2.0.5",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "papaparse": "^5.0.0",
     "quasar": "^1.0.0",
     "vue-apexcharts": "^1.4.0",
